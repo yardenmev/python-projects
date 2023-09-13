@@ -1,4 +1,3 @@
-Certainly! Here's the README content in a standard README format:
 
 ```markdown
 # Environment and Disk Info Python Scripts
