@@ -11,9 +11,7 @@ A Python script to convert video files to MP3 audio files and package them into 
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Description
 
@@ -38,8 +36,4 @@ Before you begin, ensure you have met the following requirements:
 
 ### Installation
 
-1. Clone the repository:
-
-   ```shell
-   git clone https://github.com/yourusername/video-to-mp3-converter.git
-   cd video-to-mp3-converter
+1. Clone the repository and run 
