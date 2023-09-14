@@ -11,7 +11,7 @@ An AWS Lambda function that processes incoming emails with attachments, extracts
 - [Usage](#usage)
 - [Configuration](#configuration)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Description
 
